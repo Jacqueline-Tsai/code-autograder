@@ -1,7 +1,7 @@
 # Code Autograding Web Application
 
 This is a full-stack web application for automated code grading.
-It provide scalability, functionality and performance testing
+It provide scalability, functionality and performance testing.
 
 Provides an endpoint for grading programming assignments. Has the functionality
 needed to create a grader image based on `grader-image` and to copy source code
