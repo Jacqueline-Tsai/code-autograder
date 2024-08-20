@@ -46,7 +46,6 @@ grader-api
 ├── docker-compose.prod.yml
 ├── docker-compose.yml
 ├── e2e-playwright
-│   ├── .DS_Store
 │   ├── Dockerfile
 │   ├── README.md
 │   ├── package.json
@@ -91,7 +90,6 @@ grader-api
 │   └── services
 │       └── programmingAssignmentService.js
 ├── programming-ui
-│   ├── .DS_Store
 │   ├── .gitignore
 │   ├── Dockerfile
 │   ├── Dockerfile.prod
@@ -102,7 +100,6 @@ grader-api
 │   ├── public
 │   │   └── favicon.svg
 │   ├── src
-│   │   ├── .DS_Store
 │   │   ├── components
 │   │   │   ├── Assignment.svelte
 │   │   │   ├── Header.svelte
