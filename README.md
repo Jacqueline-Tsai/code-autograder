@@ -43,7 +43,7 @@ programming-api
 grader-api
   POST /api/grader/submit/answer
 
-## Struture
+## Structure
 ```
 ├── .gitignore
 ├── PERFORMANCE_TEST_RESULTS.md
